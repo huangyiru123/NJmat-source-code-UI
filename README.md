@@ -1,2 +1,2 @@
-# NJmat-source-code-UI
-Source-code for NJmat
+# NJmat
+This branch stores updated source codes for NJmat
